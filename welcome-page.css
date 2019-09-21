@@ -505,24 +505,24 @@ body {
 	.woop {
 		margin-top: 15px;
 		position: absolute;
-		left: 21%;
-		top: 39%;
+		left: 22%;
+		top: 44%;
 		transform: translate(-41%, -50%);
 		color: #4DB8A9;
 		font-size: 34pt;
 	}
 
 	.woop2 {
-    width: 10px;
-    margin-top: 15px;
-    position: absolute;
-    left: 28%;
-    top: 44%;
-    transform: translate(-41%, -50%);
-    color: rgb(8, 8, 8);
-    white-space: nowrap;
-    font-size: 11pt;
-}
+		width: 10px;
+		margin-top: 15px;
+		position: absolute;
+		left: 28%;
+		top: 50%;
+		transform: translate(-41%, -50%);
+		color: rgb(8, 8, 8);
+		white-space: nowrap;
+		font-size: 11pt;
+	}
 
 .fist {
     width: 86px;
