@@ -59,10 +59,10 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                 // Handles redirection
                 echo 'LOG_IN';          
             }else{
-                echo 'INVALID_PASS';
+                echo 'Invalid Password';
             }
          }else{
-             echo 'INVALID_EMAIL';
+             echo 'Invalid Email or Password';
          }
     }else{
         echo 'OOPS';
