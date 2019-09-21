@@ -408,32 +408,34 @@ body {
 	margin-right: auto;
 }
 .woop {
-    width: 12px;
-    margin-top: 30px;
+    margin-top: 15px;
     position: absolute;
-    left: 41%;
-    top: 34%;
-    color: #69c191;
-    font-size: 44pt;
+    left: 21%;
+    top: 39%;
+    transform: translate(-41%, -50%);
+    color: #4DB8A9;
+    font-size: 34pt;
 }
 
 .woop2 {
-    width: 12px;
-    margin-top: 30px;
+    width: 10px;
+    margin-top: 15px;
     position: absolute;
-    left: 44.5%;
-    top: 43.8%;
+    left: 28%;
+    top: 44%;
+    transform: translate(-41%, -50%);
     color: rgb(8, 8, 8);
     white-space: nowrap;
     font-size: 11pt;
 }
 
 .fist {
-    width: 100px;
+    width: 86px;
     margin-top: 30px;
     position: absolute;
-    left: 28.7%;
-    top: 32%;  
+    left: 50%;
+    top: 26%;
+    transform: translate(-50%, -50%);
 }
 
 .logo {
@@ -455,26 +457,27 @@ body {
 }
 
 .button {
-	background-image: linear-gradient(to bottom, rgb(253, 251, 251), #389462f0);
-	-webkit-border-radius: 28;
-	-moz-border-radius: 28;
-	border-radius: 28px;
-	border-color: #72b5a1;
-	border-style: solid;
-	border: 2px;
-	font-family: Arial;
-	color: #fafafa;
-	font-size: 20px;
-	font-weight: bold;
-	padding: 19px;
-	text-decoration: none;
-	text-align: center;
-	display: inline-block;
-	left: 40%;
-	top: 39%;
-	transform: translate(14%, 960%);
-	padding-left: 60px;
-	padding-right: 60px;
+    background-image: linear-gradient(to bottom, rgb(147, 208, 218), rgb(71, 173, 130));
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    border-color: #72b5a1;
+    border-style: solid;
+    border: 2px;
+    font-family: Arial;
+    color: #fafafa;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 19px;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    left: 40%;
+    top: 38%;
+    transform: translate(0%, 820%);
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 18px;
 }
 
 @media (max-width: 500px) {
