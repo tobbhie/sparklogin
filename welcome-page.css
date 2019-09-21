@@ -432,8 +432,8 @@ body {
     width: 100px;
     margin-top: 30px;
     position: absolute;
-    left: 28.7%;
-    top: 32%;  
+    left: 31.7%;
+    top: 32%;
 }
 
 .logo {
@@ -505,33 +505,35 @@ body {
 	.woop {
 		margin-top: 15px;
 		position: absolute;
-		left: 31%;
+		left: 21%;
 		top: 39%;
 		transform: translate(-41%, -50%);
 		color: #4DB8A9;
-		font-size: 38pt;
+		font-size: 34pt;
 	}
+
 	.woop2 {
     width: 10px;
     margin-top: 15px;
     position: absolute;
-    left: 36%;
+    left: 28%;
     top: 44%;
     transform: translate(-41%, -50%);
     color: rgb(8, 8, 8);
     white-space: nowrap;
     font-size: 11pt;
 }
-	.fist {
-		width: 86px;
-		margin-top: 30px;
-		position: absolute;
-		left: 15.7%;
-		top: 37%;
+
+.fist {
+    width: 86px;
+    margin-top: 30px;
+    position: absolute;
+    left: 50%;
+    top: 26%;
     transform: translate(-50%, -50%);
-  }
+}
   
-  .button {
+.button {
     background-image: linear-gradient(to bottom, rgb(147, 208, 218), rgb(71, 173, 130));
     -webkit-border-radius: 28;
     -moz-border-radius: 28;
@@ -550,10 +552,10 @@ body {
     left: 40%;
     top: 38%;
     transform: translate(0%, 820%);
-    padding-left: 60px;
-    padding-right: 60px;
-	margin-left: 33px;
-  }
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 18px;
+}
 
  .logo {
     width: 80px;
