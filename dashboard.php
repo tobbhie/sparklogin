@@ -15,10 +15,14 @@
         <div class="container">
             <h2 class="woop">Welcome!</h2>
             <p class="woop2">Spark like you're meant to</p>
+            <img class="fist" src="assets/fist.png">
+            <img class="logo" src="src/sparkLogo.svg">
+
 
             <div class="mb1">
                 
-                    <a href="#!" class="btn btn-primary">Link Button</a>
+                
+                    <a href="#!" class="button">Explore</a>
                   </div>
                     
             
